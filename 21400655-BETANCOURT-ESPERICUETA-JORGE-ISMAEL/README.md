@@ -1,0 +1,1 @@
+Esta carpeta contiene las actividades de la asignatura de Programación Lógica y Funcional

@@ -1,0 +1,1 @@
+Esta carperta es para actividades de programacion logica y funcional

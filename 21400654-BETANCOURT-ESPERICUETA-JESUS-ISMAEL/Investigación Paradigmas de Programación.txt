@@ -1,0 +1,46 @@
+Tarea: Investigación sobre Paradigmas de programación (imperativo, orientado a objetos, funcional y lógico). 
+
+Los paradigmas son restricciones a determinadas construcciones del lenguaje que obligan el uso de un determinado estilo. Por ejemplo, la programación estructurada o procedimental prohíbe saltar a través del código del programa, mientras que la programación funcional prohíbe la modificación directa de la memoria de la computadora.
+
+Paradigma de programación imperativa.
+
+El paradigma imperativo es el más simple y más comúnmente utilizado. Su principal función es la ejecución secuencial de acciones.
+Decenas de lenguajes se adhieren al paradigma imperativo y tiene muchas variantes. Antes, la mayoría de los programadores escribían en lenguajes procedimentales, pero hoy en día ese tipo de programación se considera obsoleta. Se utiliza sólo si por alguna razón es imposible utilizar la programación orientada a objetos, que ocupa el nicho principal en el universo imperativo y es de los paradigmas modernos.
+
+Programación orientada a objetos.
+
+En este modelo de paradigma se construyen modelos de objetos que representan elementos (objetos) del problema a resolver, que tienen características y funciones. Permite separar los diferentes componentes de un programa, simplificando así su creación, depuración y posteriores mejoras.
+La programación orientada a objetos se sirve de diferentes conceptos como:
+
+• Abstracción de datos.
+• Encapsulación.
+• Eventos.
+• Modularidad.
+• Herencia.
+• Polimorfismo.
+• Programación.
+
+Programación funcional.
+
+El paradigma funcional es aquel que enfatiza el uso de funciones donde se divide el problema en bloques y para su resolución se implementan asignaciones que definen variables en su alcance que pueden o no arrojar resultados. Así, el problema propuesto se subdivide y las funciones implementadas harán los cálculos matemáticos. Por lo tanto, el paradigma funcional es muy recomendable en los casos en que hay matemáticas directamente involucradas en la programación.
+
+Programación lógica.
+
+La programación lógica es un paradigma declarativo que se ocupa de la representación del conocimiento mediante la expresión de hechos y reglas utilizando la lógica formal. Los programas escritos en lenguajes de programación lógica son un conjunto de cláusulas lógicas que describen relaciones entre objetos y reglas para derivar nuevas relaciones. Conceptos clave de la programación lógica:
+
+• Representación del conocimiento mediante la lógica formal.
+• Reglas de inferencia y razonamiento.
+• Retroceso y búsqueda.
+• Bases de conocimiento basadas en hechos y regla.
+• Referencias bibliográficas  
+
+Referencias bibliográficas.  
+
+Tripleten. (SF). ¿Qué son los paradigmas de programación?
+https://tripleten.mx/blog/que-son-los-paradigmas-de-programacion/
+
+Profile. (9 de junio 2020). ¿Qué son los paradigmas de programación?
+https://profile.es/blog/que-son-los-paradigmas-de-programacion/#Programacion_orientada_a_objetos
+
+Beecrowd. (SF). Paradigmas de Programación.
+https://beecrowd.com/es/blog-posts/paradigmas-de-programacion/

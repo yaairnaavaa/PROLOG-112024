@@ -11,7 +11,7 @@ Los paradigmas de programación definen estándares para escribir código. Al ca
 
 # Programacion Imperactiva 
 
-**Definicion:**  La programación imperativa es un paradigma de programación que enfatiza la descripción explícita de los pasos que debe seguir una computadora para lograr un resultado deseado. En este enfoque, el programador escribe una serie de declaraciones o comandos que manipulan directamente el estado del programa a través de asignaciones, estructuras de control como bucles y condicionalesy llamadas a funciones. Estos comandos se ejecutan secuencialmente y cada paso cambia el estado del programa de una manera específica y predecible.
+**Definicion:** La programación imperativa es un paradigma de programación que enfatiza la descripción explícita de los pasos que debe seguir una computadora para lograr un resultado deseado. En este enfoque, el programador escribe una serie de declaraciones o comandos que manipulan directamente el estado del programa a través de asignaciones, estructuras de control como bucles y condicionalesy llamadas a funciones. Estos comandos se ejecutan secuencialmente y cada paso cambia el estado del programa de una manera específica y predecible.
 
 **Características principales:**
 - Uso explícito de variables, asignaciones y control de flujo (bucles, condicionales).

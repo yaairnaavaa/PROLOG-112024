@@ -1,1 +1,0 @@
-Carpeta que contendrá todos los trabajos que se realicen en la materia de "Programación Lógica y Funciona"

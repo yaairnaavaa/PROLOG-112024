@@ -1,0 +1,147 @@
+Investigación sobre Paradigmas de programación
+
+El paradigma puede definirse como un método para resolver un problema o realizar una tarea. El paradigma de programación es un enfoque para resolver un problema utilizando algún lenguaje 
+de programación o también podemos decir que es un método para resolver un problema utilizando herramientas y técnicas que están disponibles para nosotros siguiendo algún enfoque. Hay muchos
+lenguajes de programación que se conocen, pero todos ellos deben seguir alguna estrategia cuando se implementan y esta metodología/estrategia son los paradigmas. Además de las variedades de
+ lenguajes de programación, existen muchos paradigmas para satisfacer todas y cada una de las demandas. Se analizan a continuación:
+
+-------------------------------------------------------------------------------- Imperativo ----------------------------------------------------------------------------------------------
+
+--- ¿Qué es la programación imperativa?
+
+La programación imperativa es un paradigma de programación que se enfoca en describir los pasos necesarios para modificar el estado de un programa y alcanzar un resultado deseado. Este 
+enfoque utiliza funciones que especifican de manera explícita las acciones necesarias para resolver un problema.
+
+En otras palabras, un sistema imperativo controla una máquina o mecanismo para producir un resultado deseado. Según Forbes, "los usuarios suelen expresar sus expectativas sobre el resultado
+final en una especificación, mientras que un programador crea un sistema para lograr dicho resultado".
+
+--- Origen de la programación imperativa
+
+Los primeros lenguajes imperativos se derivaron de los lenguajes de máquina utilizados en los computadores originales. Estos lenguajes, aunque simples, facilitaron la implementación de 
+hardware, razón por la cual el diseño del hardware de los computadores está estrechamente relacionado con este paradigma, permitiendo ejecutar eficientemente el código de máquina.
+
+--- ¿En qué consiste la programación imperativa?
+
+Este paradigma consiste en resolver un problema especificando una secuencia de instrucciones detalladas, denominadas funciones o procedimientos, que guían al sistema paso a paso hacia la 
+solución.
+
+Los distintos lenguajes de programación imperativa se pueden clasificar a su vez en tres estilos distintos de programación subordinados: programación estructurada, programación 
+procedimental y procedimental modular.
+
+--- Estilo de programación estructurada
+
+Se basa en estructuras de control específicas: secuencias, selección e iteración. Estas estructuras limitan las declaraciones innecesarias que complican el código imperativo, simplificando
+su diseño.
+
+---  Estilo de programación procedimental
+
+Divide las tareas que debe realizar un programa en cargas más pequeñas, descritas individualmente en el código. Esto da lugar a módulos de programación reutilizables en otros programas.
+
+--- Estilo de programación modular
+
+Se lleva a cabo el diseño, el desarrollo y la prueba de los componentes individuales del programa independientemente unos de otros. Luego, los módulos individuales se combinan para crear 
+el software real. 
+
+Los lenguajes de programación imperativos que de seguro has visto o has usado: Java, Pascal, Python, Fortran, ALGOL, C, C#, C++, Ensamblador.
+
+---------------------------------------------------------------------------- Orientado a objetos --------------------------------------------------------------------------------------------
+
+La Programación Orientada a Objetos (POO) es un paradigma de desarrollo de software que organiza el código en entidades llamadas "objetos", los cuales combinan datos (atributos) y 
+comportamientos (métodos). Esta estructura permite crear aplicaciones más modulares, reutilizables y fáciles de mantener.
+
+Un objeto no es solo una estructura que contiene datos y funciones. Representa una abstracción del mundo real, encapsulando características (atributos) y acciones (métodos). Imagina, 
+por ejemplo, un automóvil: sus atributos serían el color, la marca y el modelo, mientras que sus métodos podrían ser acelerar, frenar o encender el motor. Gracias a este enfoque, la POO 
+permite simplificar conceptos complejos, estructurarlos de forma lógica y facilitar su comprensión.
+
+Este paradigma se implementa en lenguajes diseñados específicamente para admitirlo, como Java, Python o C++. Elegir el lenguaje correcto es crucial, ya que influye directamente en la 
+legibilidad, eficiencia y escalabilidad del código, aspectos fundamentales en el desarrollo de software moderno.
+
+-- Aplicaciones de la Programación Orientada a Objetos
+
+La POO se ha convertido en la base para desarrollar aplicaciones avanzadas y sostenibles. Su enfoque modular y orientado a la reutilización promueve una organización lógica del software, 
+facilitando su mantenimiento y escalabilidad. A medida que las demandas tecnológicas crecen, el uso de la POO resulta indispensable en diversos campos:
+
+-- Diseño Web. La POO juega un papel crucial en el diseño web al proporcionar una estructura organizativa. Los objetos pueden representar componentes visuales y funcionales reutilizables, 
+como botones, menús o formularios.
+
+-- Desarrollo de Aplicaciones Móviles. En el ámbito de las aplicaciones móviles, la POO es fundamental para crear sistemas sólidos y escalables. Lenguajes como Kotlin (para Android) y 
+Swift (para iOS) están diseñados con principios de la POO para mejorar la arquitectura y la reutilización de componentes.
+
+-- Desarrollo de Videojuegos. La POO es el núcleo del desarrollo de videojuegos, donde cada elemento, como personajes, enemigos o elementos del entorno, puede representarse como un objeto.
+Esto permite organizar el código de forma coherente y simplificar las interacciones entre las distintas partes del juego.
+
+
+--------------------------------------------------------------------------------- Funcional -------------------------------------------------------------------------------------------------
+
+La programación funcional es un paradigma de programación declarativa en el que se aplican funciones puras en secuencia para resolver problemas complejos. Las funciones toman un valor de 
+entrada y producen un valor de salida sin que el programa las afecte. La programación funcional se centra principalmente en lo que se debe resolver y utiliza expresiones en lugar de 
+declaraciones. La programación funcional se destaca principalmente en las funciones matemáticas en las que los valores no tienen ninguna correlación y no hace uso de conceptos como el 
+estado compartido y los datos mutables que se utilizan en la programación orientada a objetos.
+
+La programación funcional se basa en conceptos clave:
+
+- Funciones de primera clase: Se tratan como variables, pudiendo pasarse como parámetros o almacenarse en estructuras de datos.
+- Recursión: Sustituye bucles como "while" o "for", utilizando funciones que se llaman a sí mismas hasta alcanzar un caso base.
+- Inmutabilidad: Las variables no cambian tras su creación, manteniendo el estado constante durante la ejecución.
+- Funciones puras: Producen la misma salida con la misma entrada, sin efectos secundarios, lo que mejora la reutilización y depuración.
+- Funciones de orden superior: Aceptan o devuelven otras funciones, facilitando operaciones complejas.
+
+-- Ventajas
+
+- Fácil de depurar: Las funciones puras e inmutables facilitan la detección de errores.
+- Evaluación perezosa: Calcula solo cuando es necesario, optimizando recursos.
+- Programación paralela: Las variables inmutables simplifican el desarrollo concurrente.
+- Lectura y eficiencia: Es fácil de entender y reutilizar debido a la independencia de las funciones.
+
+-- Desventajas
+
+- Terminología compleja: Sus raíces matemáticas pueden intimidar a principiantes.
+- Costos de recursión: Requiere más memoria, lo que puede ser ineficiente.
+
+-- Lenguajes funcionales destacados
+
+- Haskell: Diseñado exclusivamente para programación funcional.
+- Python y JavaScript: Soportan programación funcional aunque no sean nativos al paradigma.
+- Erlang: Ideal para sistemas concurrentes como WhatsApp.
+- Clojure y Scala: Ofrecen enfoques funcionales con flexibilidad multiparadigma.
+
+--------------------------------------------------------------------------------------- Lógico ----------------------------------------------------------------------------------------------
+
+La programación lógica es un paradigma declarativo que utiliza hechos y reglas para resolver problemas, ampliamente empleado en inteligencia artificial y aprendizaje automático. Se basa en
+el cálculo de predicados, describiendo qué debe hacerse sin especificar cómo, dejando la ejecución a cargo del lenguaje. Los programas consisten en declaraciones lógicas: hechos (verdades 
+básicas, como "Rex es un perro") y reglas (relaciones condicionales, como "Rex es un animal si es un perro"). Mediante deducción, el sistema infiere conclusiones lógicas, como que "Rex es 
+un animal" a partir de los predicados dados.
+
+-- Mecánica y paradigma
+
+Los programas lógicos emplean árboles and-or para buscar soluciones, utilizando razonamiento inverso para deducir conclusiones específicas a partir de información general. Pueden operar en 
+entornos puramente declarativos, como Datalog y ASP, o incluir elementos imperativos, como Prolog. Dentro de los paradigmas de programación, la lógica se distingue de otros modelos como el 
+imperativo, el funcional, y el orientado a objetos, siendo más adecuado para problemas como representación de conocimiento y consultas complejas.
+
+-- Especializaciones y usos
+
+La programación lógica cuenta con variantes especializadas:
+
+- Orden superior: Añade lógica avanzada para validación matemática.
+- De restricciones: Aplica restricciones para ajustar soluciones.
+- Concurrente: Ejecuta búsquedas paralelas en sistemas distribuidos.
+- Abductiva: Genera soluciones ante información incompleta.
+- Inductiva: Generaliza hipótesis a partir de ejemplos.
+
+-- Beneficios
+
+Es ideal para modelar conocimiento y resolver consultas complejas, clasificando resultados según relevancia o criterio definido. Sin embargo, no es la mejor opción para tareas intensivas en
+procesamiento matemático o bajo nivel del sistema. Su simplicidad declarativa y capacidad deductiva la hacen esencial en dominios como sistemas expertos y procesamiento de lenguaje natural.
+
+
+--------------------------------------------------------------------------------- Referencias------------------------------------------------------------------------------------------------
+
+geeksforgeeks. 21 de abril de 2024. Introducción a los paradigmas de programación. https://www.geeksforgeeks.org/introduction-of-programming-paradigms/
+
+crehana. 29 de marzo de 2022. Conoce la programación imperativa, el método que le da órdenes a los computadores. https://www.crehana.com/blog/transformacion-digital/programacion-imperativa/
+
+IMMNUNE TECHNOLOGY INSTITUTE. 9 de diciembre de 2023. Aplicaciones prácticas de la programación orientada a objetos. https://immune.institute/blog/programacion-orientada-a-objetos/
+
+TURING. 2024. Introducción a la programación funcional. https://www.turing.com/kb/introduction-to-functional-programming#what-is-functional-programming?
+
+Akamai. 4 de abril de 2023. Una guía para comprender la programación lógica. https://www.linode.com/docs/guides/logic-programming-languages/

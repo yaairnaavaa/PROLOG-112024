@@ -1,0 +1,120 @@
+Paradigmas de programacion 
+
+¿Que es?
+Es un estilo o enfoque que dicta cómo escribir y 
+estructurar el código para resolver problemas.
+_________________________________________________
+Paradigma Imperativo
+se centra en describir cómo debe realizarse una tarea.
+Es el más cercano al funcionamiento del hardware, donde 
+se especifican secuencias de instrucciones detalladas.
+
+Características:
+
+1.- Basado en comandos secuenciales.
+2.- Modifica el estado del programa mediante asignaciones.
+3.- Usa estructuras como bucles y condicionales.
+
+Ventajas:
+
+1.- Fácil de entender para principiantes, ya que se 
+asemeja al flujo lógico humano.
+2.- Amplia compatibilidad con el hardware.
+
+Desventajas:
+
+1.- Los programas pueden volverse difíciles de mantener 
+y escalar debido a su naturaleza secuencial.
+
+Lenguajes Representativos:
+
+C, Assembly, Fortran, Basic.
+
+_________________________________________________________
+
+Paradigma Orientado a Objetos (POO)
+La programación orientada a objetos organiza el código 
+en clases y objetos, enfocándose en modelar entidades 
+del mundo real.
+
+Características:
+
+1.- Usa principios como herencia, 
+encapsulación y polimorfismo.
+2.- Los datos y comportamientos se agrupan dentro de 
+objetos.
+
+Ventajas:
+
+1.- Fomenta la reutilización del código mediante herencia
+ y modularidad.
+2.- Facilita la escalabilidad y el mantenimiento en 
+proyectos grandes.
+
+Desventajas:
+
+1.- Curva de aprendizaje más pronunciada.
+2.- Puede ser excesivo para problemas pequeños o simples.
+
+Lenguajes Representativos:
+
+Java, Python, C++, Ruby.
+__________________________________________________________
+
+Paradigma Funcional
+El paradigma funcional se basa en el uso de funciones 
+matemáticas puras, evitando el estado mutable y 
+los efectos secundarios.
+
+Características:
+
+1.- Enfatiza expresiones en lugar de instrucciones.
+2.- Usa funciones de orden superior y recursión.
+3.- No modifica variables una vez asignadas 
+(inmutabilidad).
+
+Ventajas:
+
+1.- Los programas son más fáciles de razonar y depurar.
+2.- Se presta bien a la programación concurrente 
+y paralela.
+
+Desventajas:
+
+1.- No siempre es intuitivo para principiantes.
+2.- Puede ser menos eficiente en términos de uso 
+de memoria.
+
+Lenguajes Representativos:
+
+Haskell, Lisp, Scala, F#.
+__________________________________________________________
+
+4. Paradigma Lógico
+En el paradigma lógico, los problemas se describen en 
+términos de hechos y reglas en lugar de instrucciones 
+explícitas.
+
+Características:
+
+1.- Basado en la lógica de predicados.
+2.- Resuelve problemas mediante inferencias 
+automáticas (backtracking y unificación).
+
+Ventajas:
+
+1.- Ideal para problemas que requieren razonamiento 
+simbólico, como inteligencia artificial.
+2.- El código es más declarativo, describiendo qué hacer,
+no cómo.
+
+Desventajas:
+
+1.- Puede ser menos eficiente que otros paradigmas 
+en problemas generales.
+2.- Requiere que los problemas se ajusten bien a la 
+lógica formal.
+
+Lenguajes Representativos:
+
+Prolog, Datalog.

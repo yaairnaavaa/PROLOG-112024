@@ -1,0 +1,34 @@
+Los paradigmas de programación son enfoques o estilos utilizados para diseñar y escribir programas informáticos. Cada paradigma tiene su propia filosofía y conjunto de reglas, y se adapta mejor a ciertos tipos de problemas. Los principales paradigmas son:
+
+1. Paradigma Imperativo: Se basa en instrucciones que indican paso a paso cómo debe ejecutarse un programa. Es el estilo más básico y natural, similar a dar órdenes explícitas.
+
+Usa variables, bucles y estructuras de control como if, for, y while.
+El estado del programa cambia a través de asignaciones a variables. Algunos lenguajes representativos son C, Fortran, Pascal.
+
+
+2. Paradigma Orientado a Objetos (POO): Organiza el código en objetos, que combinan datos y comportamientos relacionados. Es útil para modelar entidades del mundo real.
+
+Los objetos son instancias de clases y tienen atributos (datos) y métodos (comportamientos). Promueve conceptos como encapsulación, herencia y polimorfismo.
+Algunos lenguajes representativos son Java, C++, Python, Ruby.
+
+
+3. Paradigma Funcional: Basado en funciones matemáticas puras, evita estados mutables y datos cambiantes. Se enfoca en la composición de funciones y la inmutabilidad.
+
+Las funciones son ciudadanos de primera clase, pueden ser asignadas a variables o pasadas como argumentos. Evita efectos secundarios (cambiar el estado del programa fuera del ámbito local). Usa recursión en lugar de bucles.
+Algunos lenguajes representativos son Haskell, Erlang, Scala, JavaScript (parcialmente funcional).
+
+
+4. Paradigma Lógico: Utiliza lógica formal para expresar relaciones entre datos. El programa se describe en términos de reglas y hechos, y un motor de inferencia se encarga de encontrar soluciones.
+
+Se basa en el concepto de unificación y resolución.
+Define qué es verdadero y deja que el motor lógico determine cómo obtenerlo.
+Algunos lenguajes representativos son Prolog, Datalog.
+
+
+Cada paradigma es más efectivo para ciertos tipos de problemas. Por ejemplo, POO es ideal para sistemas grandes y complejos, como videojuegos, mientras que el paradigma funcional es útil en aplicaciones que requieren alta concurrencia. Entender y combinar estos paradigmas en diferentes contextos puede enriquecer tus habilidades como programador.
+
+
+
+
+
+

@@ -1,0 +1,38 @@
+Investigación sobre Paradigmas de Programación
+
+Paradigma Imperativo
+El paradigma imperativo se basa en describir paso a paso cómo resolver un problema. Los programas están compuestos por instrucciones que modifican el estado del sistema. Ejemplo: lenguajes como C, Python (cuando se usa de manera procedural).
+
+Características:
+- Usa estructuras de control como bucles y condicionales.
+- El enfoque está en el "cómo" se resuelve el problema.
+- Modifica estados y variables.
+
+
+Paradigma Orientado a Objetos (POO)
+El paradigma orientado a objetos organiza el código en clases y objetos, donde cada objeto representa una entidad con atributos y comportamientos.
+
+Características:
+- Se basa en conceptos como herencia, polimorfismo, encapsulamiento y abstracción.
+- Fomenta el reuso y la modularidad del código.
+- Ejemplos de lenguajes: Java, C++, Python (cuando se usa en POO).
+
+
+Paradigma Funcional
+El paradigma funcional enfatiza el uso de funciones puras que no tienen efectos secundarios y evitan modificar el estado global.
+
+Características:
+- Enfoque en el "qué" se debe hacer, no en el "cómo".
+- Usa funciones como primera clase (pueden asignarse a variables o pasarse como argumentos).
+- Lenguajes representativos: Haskell, Scala, JavaScript (en algunos casos).
+
+
+Paradigma Lógico
+El paradigma lógico resuelve problemas definiendo hechos y reglas lógicas, dejando que el sistema deduzca las soluciones.
+
+Características:
+- Basado en lógica matemática y teoría de conjuntos.
+- Ejemplo principal: Prolog.
+- Útil para resolver problemas de inteligencia artificial y sistemas expertos.
+
+

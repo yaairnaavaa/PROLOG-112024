@@ -1,0 +1,115 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+     INVESTIGACIÓN PARADIGMAS DE PROGRAMACIÓN 
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🔹 PARADIGMA IMPERATIVO
+━━━━━━━━━━━━━━━━━━━━━━━
+📌 **Definición:**
+   - El paradigma imperativo se enfoca en la funcionalidad del programa como una secuencia de instrucciones que la computadora 
+   debe ejecutar. Estas instrucciones están interdependientes, es decir, cada una depende de la anterior para su ejecución. 
+   El flujo del programa sigue un orden secuencial y la programación es explícita en cuanto a los pasos a seguir. 
+   -
+   Este paradigma se subdivide en dos categorías principales:
+     > Programación Procedimental: Organiza el código en subrutinas o funciones con tareas específicas y un orden determinado. 
+     Este enfoque facilita la reutilización del código y la modularización.
+     > Programación Estructurada: Emplea estructuras de control de flujo (como bucles y condicionales) para gestionar el orden 
+     de ejecución de las instrucciones, ayudando a evitar la complejidad del uso de saltos incontrolados
+
+📌 **Características principales:**
+   - > Trabaja con instrucciones secuenciales.
+     > Es el paradigma mas basico.
+     > Las instrucciones son interdependientes.
+     > Cuenta con dos subdiviciones.
+
+📌 **Ejemplo de uso:**
+   - Este paradigma se emplea em aplicaciones de software y para el control y manipulación de datos de manera precisa.
+   - Lenguajes en los que se usa:
+     > Java, C, Fortran, BASIC, Ensamblador, Python, Pascal, etc.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🔹 PARADIGMA ORIENTADO A OBJETOS
+━━━━━━━━━━━━━━━━━━━━━━━
+📌 **Definición:**
+   - El paradigma orientado a objetos se enfoca en organizar el código en torno a objetos que encapsulan datos y métodos que 
+   interactúan entre sí. Cada objeto posee su propio estado y comportamiento, lo que significa que tiene atributos (datos) y 
+   métodos (funciones) que definen lo que puede hacer. Además, los objetos pueden comunicarse entre sí mediante mensajes, 
+   lo que permite una interacción y cooperación dentro del sistema.
+   -
+   Este paradigma dice que consta de cuatro principios:
+     > Abstraccion: Los objetos se modelan segun sus características esenciales.
+     > Encapsulamiento: Los objetos deben estar libres de manipulación externa.
+     > Herencia: Los objetos pueden heredar sus características a otros.
+     > Polimorfismo: Los objetos pueden tener diversas forma.
+
+📌 **Características principales:**
+   - > Trabaja con objetos donde cada uno tiene sus características.
+     > Cuenta con seguridad gracias al encapsulamiento.
+     > Facil de mantener.
+
+📌 **Ejemplo de uso:**
+   - Este paradigma se emplea en aplicaciones de software que requieren de una alta complejidad y una gran cantidad de 
+   interacciones entre objetos.
+   - Lenguajes en los que se usa:
+     > Java, Python, C++, Ruby, etc.
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🔹 PARADIGMA FUNCIONAL
+━━━━━━━━━━━━━━━━━━━━━━━
+📌 **Definición:**
+   - El paradigma funcional se enfoca en la idea de que el programa está compuesto por funciones que operan sobre los 
+   datos. Estas funciones son tratadas como valores de primera clase, lo que significa que pueden ser pasadas como 
+   argumentos a otras funciones, devueltas como resultados y almacenadas en variables.
+   -
+   Este paradigma se basa en tres principios:
+     > Funciones de Orden Superior: Funciones que usan a otras como argumentos.
+     > Funciones Puras: Funciones con un solo efecto, siempre dara el mismo resultado para los mismos argumentos.
+     > Inmutabilidad: Los datos no deben ser modificados una vez creados.
+
+📌 **Características principales:**
+   - > Las funciones se tratan como valores.
+     > Evita la modificacion de estado y datos.
+     > Hay mas de un tipo de funcion.
+
+📌 **Ejemplo de uso:**
+   - Este paradigma se emplea en aplicaciones de software que requieren una alta concurrencia y una gran cantidad de 
+   procesamiento de datos.
+   - Lenguajes en los que se usa:
+     > Haskell, Erlang, Lisp, Clojure.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🔹 PARADIGMA LÓGICO
+━━━━━━━━━━━━━━━━━━━━━━━
+📌 **Definición:**
+   - El paradigma lógico se enfoca en el uso de expresiones de la lógica matemática, reglas y relaciones para 
+   representar un problema. En este enfoque, el objetivo es buscar conclusiones lógicas a partir de hechos y reglas, 
+   sin importar el orden de ejecución de las instrucciones. El sistema de inferencias lógicas se encarga de determinar 
+   el orden correcto de ejecución para llegar a una solución, basándose en la lógica formal.
+   -
+   Este paradigma se basa en dos principios:
+     > Deduccion: Las conclusiones logicas son deducibles segun las reglas y los hechos.
+     > No Determinismo: El sistema de inferencia es capaz de elegir entre diversas opciones para llegar a una conclusion.
+
+📌 **Características principales:**
+   - > Emplea reglas y se basa en hechos.
+     > El sistema de inferencia tiene controlsobre el programa.
+     > La ejecucion de ordenes es automatica.
+
+     
+📌 **Ejemplo de uso:**
+   - Este paradigma se emplea en aplicaciones de software que requieren una alta capacidad de inferencia y razonamiento
+   - Lenguajes en los que se usa:
+     > Mercury, Oz, Prolog
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+📖 FUENTES DE INFORMACIÓN:
+   - https://www.ionos.mx/digitalguide/paginas-web/desarrollo-web/programacion-imperativa/
+   - https://keepcoding.io/blog/paradigmas-de-programacion/
+   - https://lovtechnology.com/que-son-los-paradigmas-de-programacion-como-trabajan-y-para-que-sirven/
+
+💡 NOTAS ADICIONALES:
+   - La informacion de la investigación fue resumida y complementada con otras paginas consultadas pero no mencionadas.
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━

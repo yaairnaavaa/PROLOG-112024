@@ -1,0 +1,54 @@
+**Investigación Paradigmas de Programación**
+
+Programación Lógica y funcional.
+
+Es muy común confundir los paradigmas de programación con los lenguajes de programación, aunque estamos hablando de 
+cosas diferentes, existen algunas similitudes entre ellos.
+
+Los lenguajes de programación se utilizan para “enseñar” a las computadoras a realizar diferentes tareas y acciones. 
+Los lenguajes también tienen sus propios vocabularios y reglas gramaticales para desarrollar estas instrucciones.
+
+Los paradigmas son un tipo de identidad de estos lenguajes, es decir, son modelos de escritura de código que se 
+pueden aplicar a varios lenguajes. Incluso es posible utilizar más de un paradigma para la misma solución en un 
+lenguaje previamente elegido. Los paradigmas son plantillas de escritura de código que se pueden aplicar a varios 
+lenguajes, siempre que esos lenguajes lo admitan. 
+Es posible aplicar más de un paradigma a la misma solución en un lenguajes previamente elegido.
+
+Paradigma de programación: ¿qué es?
+Un paradigma es un estilo de programación, una metodología. No es un lenguaje de programación, es la forma en que 
+resuelves problemas usando cierto código. Hay muchos lenguajes de programación conocidos, pero todos deben seguir 
+algunas reglas cuando se implementan. Y estas reglas son los paradigmas, es decir, un medio para calificar el lenguaje 
+en función de su funcionalidad.
+
+Los paradigmas de programación ayudan a construir códigos más legibles y organizados. Además, ofrecen las técnicas más adecuadas 
+para cada tipo de aplicación, aumentando la productividad diaria del desarrollador. Ser capaz de entender idiomas de manera más 
+amplia e incluso entender entre líneas de códigos.
+
+En programación, cada problema puede tener varias soluciones, por eso decimos que hay más de un paradigma para resolverlos. Así, un 
+paradigma puede ser más ventajoso que otro, dependiendo del desarrollo de un sistema dado, ofreciendo técnicas apropiadas para una aplicación específica.
+
+Hay seis tipos principales de paradigmas, cada uno de los cuales fue creado para cumplir diferentes propósitos en el desarrollo web y, por lo tanto, con pros y contras.
+    Paradigma imperativo
+    El paradigma imperativo, también conocido como paradigma procedimental, tiene como objetivo ejecutar y/o resolver un problema. En este tipo de construcción, las instrucciones 
+    deben ser pasadas a la computadora en la secuencia en que deben ser ejecutadas, donde el programador describe un paso a paso detallado de lo que debe cumplir la computadora.
+
+    Paradigma orientado a objetos
+    Con el paradigma orientado a objetos, no es necesario crear una aplicación de forma diferente según el sistema operativo donde se ejecutará, es decir, los sitios web, las aplicaciones 
+    y el software se desarrollan una sola vez y son interpretados por diferentes plataformas sin obstáculos.
+
+    Paradigmas orientados a eventos
+    Los paradigmas basados en eventos son utilizados por lenguajes de programación que utilizan recursos gráficos, como juegos y formularios, y dependen de una acción previa del usuario para realizar un movimiento.
+
+    Paradigmas de programación declarativa
+    Los paradigmas de programación declarativa le dicen a la máquina lo que quiere obtener, pero no el proceso para obtenerlo.
+    Toma este nombre porque, al utilizarlo, el programador declara verdades lógicas inmutables por las que los resultados serán siempre los mismos tras sus interacciones.
+
+    Paradigma funcional
+    El paradigma funcional es aquel que enfatiza el uso de funciones donde se divide el problema en bloques y para su resolución se implementan asignaciones que definen variables en su alcance que pueden o no arrojar resultados.
+
+    Paradigma lógico
+    El paradigma lógico, también conocido como restrictivo, se deriva del paradigma declarativo, no se compone de instrucciones y, por tanto, difiere mucho de los demás paradigmas. Muy popular en el sector de la Inteligencia Artificial 
+    para la obtención de resultados a través del análisis lógico-matemático, utiliza formas de lógica simbólica como patrones de entrada y salida. A partir de ahí, hace inferencias para producir los resultados. Los elementos principales de 
+    este paradigma son: proposiciones, inferencia y reglas de búsqueda.
+
+    

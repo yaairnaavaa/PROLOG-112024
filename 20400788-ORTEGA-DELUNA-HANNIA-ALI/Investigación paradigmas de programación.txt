@@ -1,0 +1,39 @@
+----------------HANNIA ALI ORTEGA DE LUNA-------------
+Cada lenguaje tiene su propio conjunto de paradigmas que se siguen durante el desarrollo web.
+Los desarrolladores identificaron y estructuraron enfoques para resolver problemas, los condensaron en una serie de reglas comprensibles y los llamaron paradigmas de programación.
+Los lenguajes de programación se diseñar con base en estas reglas.
+Los paradigmas de programación definen estándares para escribir código. Al cambiar a otro idioma que corresponda a un paradigma familiar, al especialista le resultará más fácil superar la “barrera del lenguaje”. 
+Los dos paradigmas principales, imperativo y declarativo, incluyen otros. Por ejemplo, el paradigma de programación imperativa incluye la programación estructurada y orientada a objetos (OOP), mientras que el paradigma declarativo incluye la programación funcional y lógica. 
+............................................................
+-Paradigma de programación imperativa
+El paradigma imperativo es el más simple y más comúnmente utilizado. Su principal función es la ejecución secuencial de acciones.
+
+Decenas de lenguajes se adhieren al paradigma imperativo y tiene muchas variantes. Antes, la mayoría de los programadores escribían en lenguajes procedimentales, pero hoy en día ese tipo de programación se considera obsoleta. Se utiliza sólo si por alguna razón es imposible utilizar la programación orientada a objetos, que ocupa el nicho principal en el universo imperativo y es de los paradigmas modernos.
+............................................................
+-Paradigma de programación declarativa
+El paradigma declarativo requiere que el programador responda a la pregunta “¿qué debería pasar?”, antes de “¿qué debería hacerse?”. Lo que busca la computadora es una manera de obtener el resultado requerido. 
+En la programación declarativa, si defines el resultado de manera demasiado vaga, la computadora podría realizar algo incorrecto. Por ejemplo, si en lugar de dar la descripción completa del tipo de sopa que quiere preparar, el desarrollador simplemente dijo que se necesitaba sopa, lo que la computadora hará será revisar todos los elementos existentes y mezclarlos. 
+
+Desde el punto de vista del paradigma declarativo, esto sería un enfoque correcto, porque si la computadora en algún punto acertara al resultado que esperaba el desarrollador sólo por seleccionar una y otra vez ingredientes al azar, al final ayudó a lograr el resultado deseado; sin embargo, no es nada eficaz, porque objetivamente se desperdiciarían muchos ingredientes, tiempo y dinero. 
+...........................................................
+-Programación estructurada 
+C, Pascal, COBOL, ALGOL, BASIC y Fortran son ejemplos de lenguajes de programación estructurada. 
+La programación imperativa se desarrolló como procedimental, donde el concepto principal es función. Una función o procedimiento es una secuencia de acciones que se escriben y nombran. Por ejemplo, las instrucciones para montar un mueble o una receta de sopa son funciones. 
+De modo que procedimiento y función son el mismo concepto, pero la programación estructurada y funcional son diferentes. El primero se refiere al paradigma imperativo y el segundo al declarativo. 
+De la misma forma, al llamar a una función —que en el ejemplo anterior sería al ordenar—, el programador no necesita pensar qué acciones específicas realizará el programa para obtener el resultado; basta con saber el nombre de la función y poder acceder a ella. 
+.............................................................
+-Programación orientada a objetos
+Java, Python, C++, Ruby, C#, Objective-C y PHP son ejemplos de lenguajes de programación orientada a objetos. En este caso, los más populares son Java y Python, el primero porque utiliza más entornos web, y el segundo por su buena legibilidad y facilidad de aprendizaje. 
+
+En el paradigma de programación orientada a objetos aparecen objetos que por sí mismos realizan funciones. Aunque en realidad, todas las acciones en una computadora las realiza el procesador, dentro del enfoque orientado a objetos, los objetos actúan como entidades que pueden realizar operaciones por sí mismas. 
+
+La programación orientada a objetos permite a los programadores regular las conexiones entre partes del programa que son responsables de diferentes acciones. Debido a esto, el programa es más fácil de compartir entre desarrolladores, más fácil de mantener y más fácil de probar automáticamente. 
+El paradigma de programación orientado a objetos es el más simple y el más rico en funciones de los paradigmas de programación modernos, lo que lo hace muy popular entre los programadores.
+.........................................................
+-Programación funcional
+Haskell, Erlang, Scala, F#, OCaml, ELM y Lisp son ejemplos de lenguajes de programación funcional. 
+
+El paradigma declarativo moderno se refiere principalmente a la programación funcional. En un enfoque funcional estricto, todas las funciones se consideran puras y no tienen efectos secundarios.
+En el mundo de la programación, un efecto secundario se presenta cuando algo ha cambiado en el sistema al momento de ejecutar la función, y que el usuario tal vez no sepa. La desventaja de los efectos secundarios es que son difíciles de explicar. 
+
+En los lenguajes funcionales no hay efectos secundarios, por lo que no existe el concepto de cambiar objetos. La función no cambia el objeto antiguo, sino que devuelve uno nuevo. Es como comprar un calendario nuevo cada día en lugar de solo arrancar la página. En la mayoría de los casos, dicho desperdicio puede ser optimizado por un traductor, una aplicación que decidirá exactamente cómo ejecutar el código. 

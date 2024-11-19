@@ -1,0 +1,74 @@
+Investigación sobre Paradigmas de Programación
+Los paradigmas de programación son enfoques o estilos que guían la escritura y estructura de los programas. Ayudan a los desarrolladores a resolver problemas con metodologías específicas y definen cómo interactúan los componentes de un sistema. A continuación, se describen los paradigmas más destacados: imperativo, orientado a objetos, funcional y lógico.
+
+1. Paradigma Imperativo
+Descripción:
+Este paradigma se centra en cómo resolver un problema, describiendo las instrucciones paso a paso que un programa debe seguir. Utiliza variables, bucles y condicionales para controlar el flujo de ejecución.
+Características principales:
+Uso de estructuras de control como if, while, for.
+Manipulación explícita del estado a través de variables.
+La programación se asemeja a un flujo secuencial de comandos.
+Lenguajes representativos:
+C
+Fortran
+Assembly
+Ventajas:
+Fácil de entender para principiantes debido a su naturaleza secuencial.
+Directo y eficiente para aplicaciones que necesitan control bajo nivel.
+Desventajas:
+Difícil de escalar en aplicaciones complejas.
+Código propenso a errores debido a la manipulación directa del estado.
+2. Paradigma Orientado a Objetos (POO)
+Descripción:
+Este paradigma organiza el código en objetos, que son instancias de clases. Los objetos encapsulan datos y comportamientos relacionados. Se centra en qué objetos interactúan y no tanto en los pasos específicos.
+Características principales:
+Principios fundamentales: encapsulación, herencia, polimorfismo y abstracción.
+Uso de métodos y atributos dentro de las clases.
+Enfoque modular para mejorar la reutilización del código.
+Lenguajes representativos:
+Java
+Python
+C++
+Ventajas:
+Fomenta la reutilización del código y la modularidad.
+Facilita la representación de conceptos del mundo real.
+Escalable para aplicaciones grandes.
+Desventajas:
+Mayor curva de aprendizaje.
+Puede ser excesivo para proyectos pequeños.
+3. Paradigma Funcional
+Descripción:
+Se basa en la evaluación de funciones matemáticas puras, evitando el uso explícito de estados y cambios de datos. Ideal para problemas que pueden ser resueltos a través de transformaciones funcionales.
+Características principales:
+Uso de funciones puras (sin efectos secundarios).
+Las variables son inmutables.
+Fomenta la programación declarativa: describe qué hacer, no cómo hacerlo.
+Uso de funciones de orden superior (funciones que toman otras funciones como argumento).
+Lenguajes representativos:
+Haskell
+Lisp
+Scala
+Ventajas:
+Código más fácil de probar y depurar debido a la ausencia de efectos secundarios.
+Escalabilidad para aplicaciones paralelas y distribuidas.
+Desventajas:
+Menor eficiencia en hardware tradicional.
+Requiere un cambio de mentalidad para programadores acostumbrados al paradigma imperativo.
+4. Paradigma Lógico
+Descripción:
+Este paradigma utiliza reglas de lógica formal para expresar problemas. Se centra en definir qué es cierto en lugar de describir cómo llegar a una solución.
+Características principales:
+Basado en hechos y reglas.
+El motor de inferencia busca soluciones basándose en lógica proposicional o de predicados.
+Muy utilizado en inteligencia artificial y resolución de problemas complejos.
+Lenguajes representativos:
+Prolog
+Datalog
+Ventajas:
+Ideal para sistemas de IA y razonamiento automatizado.
+Fácil de representar problemas complejos con hechos y relaciones.
+Desventajas:
+Menos intuitivo para problemas que no son lógicos o declarativos.
+Puede ser ineficiente para problemas que requieren cálculos iterativos.
+Conclusión:
+Cada paradigma tiene fortalezas y debilidades que lo hacen adecuado para diferentes tipos de problemas. Los desarrolladores suelen combinar múltiples paradigmas en sus proyectos, aprovechando lo mejor de cada enfoque para crear soluciones más robustas y eficientes

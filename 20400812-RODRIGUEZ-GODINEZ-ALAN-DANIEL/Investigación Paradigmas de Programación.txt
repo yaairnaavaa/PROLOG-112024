@@ -1,0 +1,37 @@
+1. ¿Qué son los Paradigmas de Programación?
+Explica que un paradigma es un conjunto de principios y métodos que orientan el diseño y la organización de un programa. Asegúrate de enfatizar que estos enfoques definen tanto la estructura del software como la interacción de sus componentes.
+
+2. Tipos de Paradigmas de Programación
+Describe los paradigmas más comunes, detallando sus características y los lenguajes que mejor los representan:
+
+Paradigma Imperativo: Se basa en un enfoque secuencial que especifica cada paso del proceso. Ejemplo: C y Pascal.
+
+Paradigma Declarativo: Se centra en el resultado final más que en el proceso en sí. Subparadigmas:
+
+Funcional: Basado en funciones matemáticas, como en Haskell.
+Lógico: Uso de lógica formal y reglas, como en Prolog.
+Programación Orientada a Objetos (OOP): Basada en la creación de objetos y el uso de conceptos como la encapsulación y el polimorfismo. Ejemplo: Java y Python.
+
+Programación Orientada a Aspectos (AOP): Divide el programa en aspectos transversales como seguridad o registro. Ejemplo: AspectJ.
+
+Paradigma Funcional: Enfatiza el uso de funciones puras y la inmutabilidad. Ejemplo: Lisp y Erlang.
+
+Paradigma Reactivo: Enfocado en el flujo de datos y la reacción ante cambios. Ejemplo: RxJava.
+
+Programación Basada en Eventos: El flujo del programa responde a eventos externos, como en JavaScript.
+
+3. Importancia de Comprender los Paradigmas de Programación
+Destaca los beneficios de entender múltiples paradigmas:
+
+Adaptabilidad a distintos problemas.
+Flexibilidad en el desarrollo.
+Facilitación del aprendizaje continuo, permitiendo la adaptación a nuevas tecnologías.
+4. Conclusión
+Con una comprensión de estos paradigmas, los programadores pueden escoger el enfoque que mejor se adapte a las necesidades de un proyecto, lo cual es crucial en un entorno en constante cambio.
+
+Si quieres agregar más detalles específicos o ejemplos prácticos para cada paradigma, puedo ayudarte a desarrollarlos.
+
+
+FUENTES :
+https://cognosonline.com/que-son-paradigmas-de-programacion/#:~:text=En%20programaci%C3%B3n%2C%20se%20conocen%20como,llegar%20a%20los%20resultados%20esperados.
+https://keepcoding.io/blog/paradigmas-de-programacion/

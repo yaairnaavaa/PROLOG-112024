@@ -1,1 +1,0 @@
-esta va ser mi rama para trabajar en prolog

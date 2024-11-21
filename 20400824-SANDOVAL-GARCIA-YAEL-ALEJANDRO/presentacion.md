@@ -1,0 +1,1 @@
+[Presentación: "Paradigmas de Programación"](https://www.canva.com/design/DAGW9nF9mvw/KVOdbsky9Tw1gp0C6lG_Cg/edit?utm_content=DAGW9nF9mvw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)

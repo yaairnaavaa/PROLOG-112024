@@ -1,3 +1,4 @@
+
 clasificarNumero :: Int -> String
 clasificarNumero n
 
@@ -7,7 +8,7 @@ clasificarNumero n
 
 main :: IO ()
 main = do
-
+    
     putStrLn "Clasificacion de -5:"
     putStrLn (clasificarNumero (-5))
 

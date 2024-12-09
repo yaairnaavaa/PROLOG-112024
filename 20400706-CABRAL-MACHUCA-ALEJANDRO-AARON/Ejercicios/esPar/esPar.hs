@@ -7,5 +7,5 @@ main :: IO ()
 main = do
     let n = 10
     if esPar n
-        then putStrLn "El número es par"
+        then putStrLn "El número es par "
         else putStrLn "El número es impar"

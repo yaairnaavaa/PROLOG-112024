@@ -2,7 +2,7 @@ clasificarNumero :: Int -> String
 clasificarNumero n
     | n<0 = "Negativo"
     | n>0 = "Positivo"
-    | otherwise = "Positivo"
+    | otherwise = "Positivo "
 
 main :: IO ()
 main = do 

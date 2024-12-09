@@ -6,5 +6,5 @@ concatenar s1 s2 = s1 ++ s2
 main :: IO ()
 main = do
     
-    putStrLn "Concatenando 'Hola' y 'Mundo':"
+    putStrLn "Concatenando 'Hola' y 'Mundo' :"
     print(concatenar "Hola" "Mundo")

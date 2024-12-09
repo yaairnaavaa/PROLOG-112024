@@ -2,7 +2,7 @@
 factorial :: Int -> Int 
 factorial n = product [1..n] 
 
---Funcion principal
+--Funcion principa l
 main :: IO ()
 main = do
     let n = 6

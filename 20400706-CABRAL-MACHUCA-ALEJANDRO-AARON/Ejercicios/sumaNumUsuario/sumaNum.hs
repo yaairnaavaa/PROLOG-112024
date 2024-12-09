@@ -5,7 +5,7 @@ main :: IO()
 main = do 
     putStrLn "Ingresa el primer numero: "
     num1 <- getLine
-    putStrLn "Ingresa el segundo numero: "
+    putStrLn "Ingresa el segundo numero:"
     num2 <- getLine
 
     let n1 = read num1 :: Int

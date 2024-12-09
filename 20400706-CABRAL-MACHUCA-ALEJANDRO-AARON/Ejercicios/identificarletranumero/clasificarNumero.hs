@@ -8,7 +8,7 @@ clasificarNumero n
 
 main :: IO ()
 main = do
-    putStrLn "Ingresa un número: "
+    putStrLn "Ingresa un número:"
     input <- getLine
     case readMaybe input :: Maybe Int of
         Just num -> putStrLn (clasificarNumero num)

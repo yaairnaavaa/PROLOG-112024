@@ -14,7 +14,7 @@ main = do
 
     case readMaybe input :: Maybe Int of
      Just numero -> putStrLn (clasificarNumero numero)
-     Nothing -> putStrLn "Error: Por favor, introduce un numeri valido"
+     Nothing -> putStrLn "Error: Por favor, introduce un numero valido"
 
     -- let numero = read input :: Int
     --putStrLn "El numero dado es"

@@ -1,11 +1,13 @@
-longitud :: [a] -> Int
-longitud [] = 0              
-longitud (_:xs) = 1 + longitud xs
+parsearEntrada :: String -> [Int]
+parsearEntrada entrada = map read (words entrada)
+
+filtrarNumerosPares :: [Int] -> [Int]
+filtrarNumerosPares = filter even
 
 main :: IO ()
 main = do
-    let lista = [1, 2, 3, 4, 5]
-    putStrLn "Lista:"
-    print lista
-    putStrLn "La longitud de la lista es:"
-    print (longitud lista)
+    putStrLn "Introduce una lista de números separados por espacio (ejemplo: 1 2 3 4 5 6):"
+    entrada <- getLine
+    let numeros = parsearEntrada entrada
+    let numerosPares = filtrarNumerosPares numeros
+    putStrLn $ "Los números pares son: " ++ show numerosPares

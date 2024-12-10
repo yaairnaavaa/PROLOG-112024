@@ -1,0 +1,33 @@
+YVES MANUEL PORTUGAL DE LA PAZ
+
+En el campo de la programación, un paradigma se refiere a un grupo
+de principios y orientaciones que establecen un método específico 
+para el diseño, organización y redacción de código. 
+Cada paradigma establece una manera singular de pensar acerca de cómo 
+debería evolucionar el software y la interacción entre sus elementos.
+
+Programación imperativa: Este representa uno de los modelos de 
+programación más antiguos y esenciales. 
+En la programación imperativa, se detallan minuciosamente las etapas que
+el programa debe cumplir para lograr una condición deseada. 
+Ejemplos tradicionales de este paradigma son lenguajes de programación 
+como C y Pascal.
+
+Objeto orientada a programación (OOP): En la programación orientada a 
+objetos, los programas se organizan en torno a "objetos", 
+que son ejemplos de clases que encapsulan información y procedimientos.
+Este método se fundamenta en ideas como la encapsulación, 
+y el polimorfismo. Lenguajes como Java, Python y C++ se caracterizan por
+adherirse a este modelo.
+
+Programación funcional: La programación funcional se enfoca en tratar
+los datos como valoraciones de funciones matemáticas, evitando la 
+variación de estado y los datos variables. 
+Se conoce a lenguajes como Lisp, Haskell y Erlang por adoptar este 
+paradigma.
+
+Programación lógica: En este paradigma, se emplea la lógica formal para 
+establecer normas y vínculos que controlen el problema en cuestión. 
+Prolog es un modelo tradicional de un lenguaje lógico de programación.
+
+

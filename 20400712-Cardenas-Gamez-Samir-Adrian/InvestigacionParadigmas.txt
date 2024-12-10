@@ -1,0 +1,94 @@
+**Samir Adrian Cardenas Gamez**
+
+1. Imperativo
+Descripción:
+Es uno de los paradigmas más antiguos. 
+Se basa en dar instrucciones paso a paso que
+modifican el estado del programa mediante asignaciones y estructuras de control
+como bucles y condicionales.
+Características:
+    •	Uso explícito de variables para almacenar el estado.
+    •	Instrucciones ejecutadas secuencialmente.
+    •	Control del flujo mediante estructuras como if, while, for.
+Ventajas:
+    •	Fácil de entender y aprender para principiantes.
+    •	Control total sobre el hardware y la memoria.
+    •	Muy eficiente en términos de rendimiento.
+Desventajas:
+    •	Puede ser más propenso a errores por la manipulación directa de estados.
+    •	Difícil de escalar para aplicaciones complejas.
+Ejemplos de Lenguajes:
+    •	C
+    •	Fortran
+    •	Python (en su uso procedural).
+________________________________________
+2. Orientado a Objetos (POO)
+Descripción:
+Organiza el código en clases y objetos que combinan datos (atributos) y comportamiento (métodos). 
+Se centra en modelar problemas del mundo real
+Características:
+    •	Abstracción, encapsulación, herencia y polimorfismo.
+    •	El código se estructura en torno a objetos interactuando entre sí.
+    •	Reutilización de código mediante herencia y clases.
+Ventajas:
+    •	Fomenta el diseño modular.
+    •	Facilita la reutilización y el mantenimiento del código.
+    •	Útil para proyectos a gran escala.
+Desventajas:
+    •	Complejidad inicial para aprender y diseñar sistemas.
+    •	Más consumo de recursos comparado con paradigmas más simples.
+Ejemplos de Lenguajes:
+    •	Java
+    •	C++
+    •	Python (en su uso orientado a objetos).
+________________________________________
+3. Paradigma Funcional
+Descripción:
+Se basa en funciones puras y evita cambiar el estado del programa o usar variables mutables. Se centra en "qué se quiere hacer"
+ en lugar de "cómo hacerlo".
+Características:
+    •	Uso de funciones de primera clase y funciones anónimas (lambda).
+    •	Evita efectos secundarios; el mismo input siempre produce el mismo output.
+    •	Inmutabilidad de datos.
+    •	Uso intensivo de recursión en lugar de bucles.
+Ventajas:
+    •	Fácil de razonar y probar debido a su naturaleza predecible.
+    •	Mejor manejo de concurrencia y paralelismo.
+    •	Código más conciso y expresivo.
+Desventajas:
+    •	Mayor curva de aprendizaje para principiantes.
+    •	Puede ser menos eficiente en algunos casos por su naturaleza recursiva.
+Ejemplos de Lenguajes:
+    •	Haskell
+    •	Scala
+    •  	JavaScript (en su enfoque funcional).
+________________________________________
+4. Paradigma Lógico
+Descripción:
+Se basa en reglas y hechos declarados por el programador. El motor lógico resuelve consultas basándose en estas reglas.
+Características:
+    •	Declarativo: el programador define el "qué", y el sistema decide el "cómo".
+    •	Uso de reglas y hechos.
+    •	Programación basada en lógica matemática (predicados y proposiciones).
+Ventajas:
+    •	Ideal para resolver problemas complejos como sistemas expertos o búsqueda de soluciones.
+    •	Excelente para aplicaciones en inteligencia artificial.
+    •	Menor cantidad de código para problemas declarativos.
+Desventajas:
+    •	Difícil de aprender y aplicar a problemas comunes.
+    •	Rendimiento limitado en aplicaciones generales.
+Ejemplos de Lenguajes:
+    •	Prolog
+    •	Mercury
+    •	Datalog
+------------------------------------------------------------------------------------------------------
+|                        Comparación         General                                                  |
+|-----------------------------------------------------------------------------------------------------|
+|Paradigma	    |       Enfoque	                |                Casos de Uso                         |
+|Imperativo	    |Secuencia de pasos explícitos	|Sistemas embebidos, bajo nivel.                      |
+|poo         	|Modelado del mundo real	    |Desarrollo de software empresarial.                  |
+|Funcional	    |Transformaciones matemáticas	|Big Data, concurrencia, análisis de datos.           |
+|Lógico	        |Reglas y hechos declarativos	|Inteligencia artificial, sistemas expertos.          |
+------------------------------------------------------------------------------------------------------
+
+

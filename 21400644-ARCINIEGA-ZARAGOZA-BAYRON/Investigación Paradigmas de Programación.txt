@@ -1,0 +1,38 @@
+1. Paradigma Imperativo
+Descripción:
+•	Se basa en instrucciones que el programa debe seguir para alcanzar un estado final deseado.
+•	Usa variables, asignaciones y estructuras de control como bucles y condicionales.
+Características:
+•	Secuencialidad: Las instrucciones se ejecutan en un orden específico.
+•	Control explícito: El programador tiene control detallado sobre el flujo del programa.
+•	Estado mutable: Las variables cambian a medida que se ejecutan las instrucciones.
+
+2. Paradigma Orientado a Objetos (POO)
+Descripción:
+•	Se organiza en torno a objetos, que son instancias de clases.
+•	Cada objeto combina datos (atributos) y funciones (métodos) que operan sobre esos datos.
+Características:
+•	Encapsulamiento: Los datos y métodos están unidos en una entidad.
+•	Herencia: Las clases pueden derivar de otras para compartir funcionalidad.
+•	Polimorfismo: Los objetos pueden adoptar múltiples formas dependiendo de su contexto.
+•	Abstracción: Permite ocultar los detalles internos y exponer solo lo necesario.
+
+3. Paradigma Funcional
+Descripción:
+•	Basado en funciones matemáticas inmutables y en el concepto de aplicación de funciones.
+•	Los programas se construyen mediante la composición de funciones puras.
+Características:
+•	Funciones puras: No tienen efectos secundarios y su salida depende solo de sus entradas.
+•	Inmutabilidad: Los datos no cambian después de ser creados.
+•	Composición de funciones: Combina funciones simples para formar operaciones complejas.
+•	Evaluación diferida: Las expresiones se calculan solo cuando se necesitan.
+
+
+4. Paradigma Lógico
+Descripción:
+•	Se basa en la lógica formal para resolver problemas mediante reglas y hechos.
+•	El programador define el qué se debe hacer, no el cómo.
+Características:
+•	Declarativo: Describe las relaciones lógicas y deja que el sistema derive las soluciones.
+•	Hechos y reglas: Los programas están compuestos de declaraciones sobre el dominio del problema.
+•	Inferencia automática: Utiliza un motor lógico para deducir soluciones.

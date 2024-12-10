@@ -1,0 +1,60 @@
+-- Rodrigo Sebastián Castañeda Gonzalez--
+-- Paradigmas de la Programación --
+
+ ¿Qué son los paradigmas de programación?
+Un paradigma de programación es un estilo o enfoque para resolver problemas mediante la escritura de programas de computadora. Representan diferentes maneras de conceptualizar cómo las computadoras deberían operar y cómo los problemas deben ser estructurados para ser resueltos.
+
+Principales paradigmas de programación:
+Paradigma imperativo:
+
+Descripción: Se centra en la secuencia de comandos o instrucciones que cambian el estado del programa.
+Ejemplos: Programación estructurada (C, Pascal).
+Características:
+Uso de variables y bucles.
+Control del flujo del programa mediante estructuras como if-else y for.
+Paradigma funcional:
+
+Descripción: Basado en funciones matemáticas, evita cambiar el estado y las variables mutables.
+Ejemplos: Haskell, Lisp, Erlang.
+Características:
+Inmutabilidad y funciones puras.
+Uso de funciones de orden superior.
+Ventajas en paralelismo y concurrencia.
+Paradigma orientado a objetos (POO):
+
+Descripción: Organiza el código en objetos que representan entidades del mundo real.
+Ejemplos: Java, Python, C++.
+Características:
+Abstracción, encapsulación, herencia y polimorfismo.
+Facilita la reutilización y el mantenimiento del código.
+Paradigma lógico:
+
+Descripción: Se basa en la lógica formal y las reglas declarativas.
+Ejemplo: Prolog.
+Características:
+Solución de problemas mediante la definición de hechos y reglas.
+Ideal para sistemas expertos e inteligencia artificial.
+Paradigma declarativo:
+
+Descripción: Especifica qué se debe hacer, no cómo hacerlo.
+Ejemplo: SQL, HTML.
+Características:
+Alto nivel de abstracción.
+Uso en bases de datos, diseño web y configuraciones.
+Paradigma reactivo:
+
+Descripción: Diseñado para manejar flujos de datos y propagación de cambios.
+Ejemplo: React.js, RxJS.
+Características:
+Ideal para interfaces de usuario y sistemas que responden a eventos en tiempo real.
+Investigación en paradigmas de programación
+En el ámbito académico, las investigaciones suelen centrarse en:
+
+Evolución de paradigmas híbridos: Cómo combinar paradigmas para resolver problemas específicos (por ejemplo, Python mezcla la programación orientada a objetos y la funcional).
+Eficiencia y escalabilidad: Comparar cómo los paradigmas manejan grandes volúmenes de datos o sistemas distribuidos.
+Educación en programación: ¿Qué paradigmas son más accesibles para nuevos programadores?
+Nuevos paradigmas: Investigar enfoques emergentes, como la programación cuántica o los paradigmas relacionados con IA.
+Tendencias actuales:
+Programación multicore: Uso del paradigma funcional para optimizar el paralelismo.
+Sistemas distribuidos: Combinación de paradigmas funcionales y reactivos.
+Aprendizaje automático: Paradigmas declarativos en frameworks de aprendizaje profundo.

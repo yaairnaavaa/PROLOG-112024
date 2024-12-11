@@ -1,0 +1,1 @@
+Esta es una carpeta de la materia de prolog donde se subirán evidencias y ejercicios hechos en clase.

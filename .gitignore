@@ -1,1 +1,10 @@
 .vscode
+
+# Haskell compiled files
+*.hi
+*.o
+*.exe
+
+# Other compiled files
+*.class
+*.pyc
